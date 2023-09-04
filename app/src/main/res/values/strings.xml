@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="responsetrue">true answer</string>
+    <string name="responsefalse">false answer</string>
+    <string name="q1">first question</string>
+    <string name="q2">second question</string>
+    <string name="q3">third question</string>
+    <string name="q4">fourth question</string>
+</resources>
